@@ -1,0 +1,80 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		█▀▄ █▀▀ █▀▀ █▀▀ █▄░█ █▀▄ █▀▄▀█ █▀▀  
+		█▄▀ ██▄ █▀░ ██▄ █░▀█ █▄▀ █░▀░█ ██▄   
+
+		Stworzone przez DefendMe w 2023 roku! Projekt na licencji GNU GPL v3.0
+
+		Dodatkowo jakiekolwiek edycje skryptu są nie dozwolone bez podlinkowania autora (DefendMe).
+
+		Publikacja Skryptu bądź jego części na swoim kanale YouTube bądź na innej platformie jest zezwolone tylko jeżeli podlinkujesz autora w górnej cześci opisu.
+
+		Dziękuje i pozdrawiam ~ItzBurning aka DefendMe
+		
+		https://www.youtube.com/channel/UCuio0cY5dSqofAk_9enc2JA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
